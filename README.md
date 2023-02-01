@@ -4,7 +4,13 @@ This is just the code of the Java application that I created to automate Salesma
 
 # Salesmate Sales Call Bulk Download Automation
 
-This project is created to automate rather boring and time-consuming recurring task of downloading sales calls from Salesmate in bulk. The reason that this project was written in Java is to practice Java for a programming subject I'm taking in school.
+This project is created to automate rather boring and time-consuming recurring task of downloading sales calls from Salesmate in bulk. The reason that this project was written in Java is to practice Java for a programming subject I'm taking in school.<br /><br />
+
+1. Salesmate is the main class of the application where the main method is stored.<br />
+2. SalesmateAutomation is the class that handles the automated screening part of the application.<br />
+3. Controller is the class that handles events & triggers of the application GUI.<br />
+4. Download is the class that handles the downloading and file handling part of the application.<br />
+5. The FXML file stores the code of the application GUI.
 
 # How does it work
 
